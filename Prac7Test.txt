@@ -1,0 +1,33 @@
+DAT120 øving 1: Introduksjon til programmering
+
+Læringsmål
+
+Du skal lære hvordan å bruke Python. Du skal lære hvordan å skrive enkle Python script. Du skal lære hvordan å lese enkle Python script og forstå hvordan enkle Python script virker. Du skal lære hvordan å lese inn data fra brukeren og skrive ut resultater til brukeren av scriptet.
+
+Oppgaver
+
+a)	Utforsk mappestrukturen til datamaskinen din. Tenk over hvordan du skal organisere filene dine i DAT120 og de andre fagene du skal ha ved UiS. Finn ut hvor du ønsker å legge Python filene du skriver til øvingene i DAT120. Lag en mappe for disse Python-filene. Lag en undermappe for øving 1. Vis studentassistenten hvor disse mappene er i filstrukturen til datamaskina di. Lag gjerne mapper for de andre emnene du skal ha også.
+
+b)	Bruk Python tolkeren (nedre høyre vindu i Spyder) til å regne ut regnestykket 12*2 + 4*(11+6). Vis dette til studentassistenten under godkjenning.
+
+c)	Bruk Python tolkeren (nedre høyre vindu i Spyder) til å lage noen variabler og gi dem verdier. Lag en variabel som inneholder resultatet av regnestykket i forrige deloppgave. Bruk denne verdien inn i regnestykket x*3 – 25, hvor x er resultatet fra forrige deloppgave. Vis dette for studentassistenten under godkjenning.
+
+d)	Forklar til studentassistenten hva følgende program gjør uten å kjøre det. Tanken er at du skal lære deg å lese programkode og skjønne hva den gjør. 
+
+e)	Skriv et Python script som konverterer avstander fra kilometer til nautiske mil. Brukeren skal skrive inn avstanden i kilometer. Programmet skal skrive ut avstanden i nautiske mil. En nautisk mil er 1,852 kilometer.
+
+f)	Man oppgir vanligvis størrelsen til en TV eller dataskjerm som antall tommer langs diagonalen. For å finne ut om det er plass til TV-en der du tenker å ha den trenger du ofte å vite bredden og høyden til TV-en. Skriv et Python-script som regner ut bredde og høyde til en skjerm basert på lengden til diagonalen. Brukeren skal oppgi denne diagonale lengden. Anta at skjermen er på 16:9 format (forholdet mellom bredde og høyde er 16:9, en skjerm som er 16 brei er 9 høy). Scriptet skal skrive ut lengden og bredden til skjermen. Du kan skrive ut lengde og bredde i samme enhet som brukeren oppgir diagonalen i (typisk tommer).
+
+g)	Skriv et script som bruker Turtle Graphics til å tegne en form som likner den vist på figuren under. Eksakt størrelse er ikke så farlig så lenge figuren ser omtrent lik ut. Merk at skilpadda starter med å peke til høyre, så den må først snus slik at den peker oppover.
+
+h)	Frivillig, mengdetrening: Skriv om scriptet fra deloppgave e til å regne motsatt vei. Brukeren skal skrive inn et antall nautiske mil, og så skal scriptet regne ut og skrive ut antall kilometer.
+
+i)	Frivillig, mengdetrening: Utvid svaret ditt i oppgave f) slik at det tar inn diagonalen i tommer og skriver ut lengde og bredde i centimeter. En tomme er 2,54 cm.
+
+j)	Frivillig, mengdetrening: Utvid svaret i oppgave f til å også kunne regne ut for andre skjermformater enn 16:9, for eksempel 4:3 eller 2:1.
+
+k)	Frivillig, avansert: Forklar til studentassistenten hva følgende program gjør uten å kjøre det. Dette er nesten, men ikke helt likt deloppgave d, men vil gi et annet resultat. Hvorfor?
+ 
+Praktisk
+
+Oppgaven godkjennes av faglærer eller studentassistenter på øvingsrommet. Øvingen skal leveres individuelt av hver student. Med mindre den individuelle deloppgaven sier noe annet så skal en øving godkjennes ved at studenten demonstrerer sitt program for studentassistenten samt at studenten forklarer hvordan programmet virker for studentassistenten. Det siste er viktig siden poenget er at studenten har skjønt hva vedkommende har gjort.
